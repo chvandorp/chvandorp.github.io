@@ -14,7 +14,7 @@ Broadly speaking, my interests involve inference, prediction, and control of com
 I enjoy using a variety of modeling techniques such as stochastic modeling, Bayesian inference, deep learning, and agent-based models. My research is often done in close collaboration with the experimental scientists that provide the data.
 
 {% capture notice-text %}
-**WARNING** This website is under construction: lot's of information is missing at the moment.
+**WARNING** This website is under construction: lots of information is missing at the moment.
 {% endcapture %}
 
 <div class="notice--danger">
