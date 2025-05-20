@@ -7,7 +7,7 @@ excerpt: 'Fit ODE models to single-cell flow data to infer memory T cell loss an
 date: 2024-02-17
 venue: 'BioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2024.07.08.602409v2'
-citation: 'van Dorp, CH. <i> et al.</i> (2024). &quot;A variational deep-learning approach to modeling memory T cell dynamics.&quot; <i>BioRxiv</i>.'
+citation: 'van Dorp, CH. et al. (2024). &quot;A variational deep-learning approach to modeling memory T cell dynamics.&quot; <i>BioRxiv</i>.'
 ---
 
 After an influenza infection, T cells in the lung provide protection against future infection, but the concentration of such cells decays over time, leading to loss of immunity. These tissue-resident memory cells (TRM) are heterogeneous and not
