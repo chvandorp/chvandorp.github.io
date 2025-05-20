@@ -13,7 +13,10 @@ Evolutionary immuno-epidemiology
 In the lab of Rob de Boer, I worked on multi-level evolutionary models of both HIV and influenza A virus (IAV). Both are examples of pathogens that relatively recently jumped the species barrier, and have been adapting to their new host ever since. A remarkable aspect of this adaptation is that the host population is extremely diverse, most importantly in terms of the immune system. I developed agent-based models of HIV evolution in a heterogeneous population that were calibrated to real-life observations such as the viral load (VL) distribution, infection and disease progression rates. The high person-to-person variability of the immune system implies that each individual likely has a different immune response to the same pathogen. 
 My model predicted that not between-host, but within-host immune pressures primarily decide the evolutionary trajectory of the pathogenicity, and that this pathogenicity is kept in check by host heterogeneity. More broadly, my work showed how diverse host-pathogen interactions could have huge impacts on both the patient and epidemiological level.
 
+![multi-level simulation of an HIV-like epidemic on a contact network](/images/mlev-diagram.svg)
+
 Unlike HIV, influenza causes acute infections that induce a sterilizing antibody (Ab) response. The virus can re-infect during subsequent seasons due to antigenic evolution. It evades neutralizing Abs by mutating its neuraminidase and hemagglutinin receptors. After an influenza infection, the lung tissue is also populated by influenza-specific T cells that respond to more conserved parts of the virus (epitopes). Inspired by Ab-antigenic drift, we found evidence in genetic and immunological data of similar antigentic drift in T-cell epitopes. This is important, because T cell immunity against influenza wanes primarily because the concentration of tissue-resident T cells (TRMs) drops relatively quickly. Boosting those T-cell concentrations is therefore an important therapeutic target. My work highlights evolutionary implications of such strategies.
+
 
 Mathematical Epidemiology
 -------------------------
