@@ -1,10 +1,10 @@
 ---
-title: ' Generalized Profiling with Stan '
+title: 'Generalized Profiling with Stan'
 date: 2020-01-11
 permalink: /posts/2020/01/generalized-profiling/
 tags:
   - Stan
-  - geeralized profiling
+  - generalized profiling
   - ODE models
 ---
 
