@@ -3,7 +3,7 @@ title: "A variational deep-learning approach to modeling memory T cell dynamics.
 collection: publications
 category: preprints
 permalink: /publication/2024-07-11-variational
-excerpt: 'Fit ODE models to single-cell flow data to infer memory T cell loss and differentiation'
+excerpt: 'We fit ODE models to single-cell flow data to infer memory T cell loss and differentiation'
 date: 2024-02-17
 venue: 'BioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2024.07.08.602409v2'
