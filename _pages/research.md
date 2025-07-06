@@ -25,6 +25,8 @@ I have worked on a number of epidemiological projects, mostly on statistical inf
 For instance, during the early stages of the COVID-19 pandemic, it was not clear to what extent the virus was adapting to its  new host, and how different non-pharmaceutical measures could impact the spread of the virus.
 One of the first signs of adaptive evolution was the rapid spread of the D614G mutation in the spike protein. To quantify the strength of selection, I developed a stochastic epidemic model with multiple SARS-CoV-2 strains that was fit with sequential Monte-Carlo to death incidence and genetic data from multiple regions. I co-developed simpler models that were used to fit data from many regions simultaneously to quantify region-dependent variation in selective advantage. We found that selective advantage is highly model, region, and variant dependent, and can only be estimated with certainty if the number of cases caused by the new variant is already relatively large.
 
+![SEIR model fit to SARS-CoV-2 hospitalization and seroprevalence data from the Netherlands](/images/FigAgeStructFitWide.svg)
+
 Before the first SARS-CoV-2 vaccines became available, it was not well understood how quickly restrictions could be lifted. We therefore used government vaccination roll-out plans and dynamical models to compare different scenarios. I used age-dependent contact data, hospitalizations, and seroprevalence data to calibrate the models with Bayesian inference. This allowed us to quantify the uncertainty in our forecasts. We proposed timelines for relaxation of measures that would prevent large outbreaks during the vaccination roll-out.
 
 
