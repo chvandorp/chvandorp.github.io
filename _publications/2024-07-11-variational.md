@@ -1,13 +1,13 @@
 ---
 title: "A variational deep-learning approach to modeling memory T cell dynamics."
 collection: publications
-category: preprints
+category: manuscripts
 permalink: /publication/2024-07-11-variational
 excerpt: 'We fit ODE models to single-cell flow data to infer memory T cell loss and differentiation'
-date: 2024-02-17
-venue: 'BioRxiv'
-paperurl: 'https://www.biorxiv.org/content/10.1101/2024.07.08.602409v2'
-citation: 'van Dorp, CH. et al. (2024). &quot;A variational deep-learning approach to modeling memory T cell dynamics.&quot; <i>BioRxiv</i>.'
+date: 2025-07-24
+venue: 'PLOS Computational Biology'
+paperurl: 'https://doi.org/10.1371/journal.pcbi.1013242'
+citation: 'van Dorp, CH. et al. (2025). &quot;A variational deep-learning approach to modeling memory T cell dynamics.&quot; <i>PLOS Computational Biology</i>. 21(7): e1013242.'
 ---
 
 After an influenza infection, T cells in the lung provide protection against future infection, but the concentration of such cells decays over time, leading to loss of immunity. These tissue-resident memory cells (TRM) are heterogeneous and not
