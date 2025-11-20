@@ -36,8 +36,11 @@ HIV rebound after treatment interruption and immunotherapy
 Antiretroviral therapy (ART) prevents disease progression and transmission in people with HIV, but is not a cure. HIV persists in a reservoir of latently infected cells that reactivate and restart the infection when ART is interrupted. However, some individuals naturally control HIV without treatment, and a handful of individuals have been cured from HIV after receiving leukemia treatment. Inspired by these cases, there is currently a lot of interest in finding methods to eradicate the reservoir, or inducing control/remission through immunotherapies.
 During my postdoc at Los Alamos National Laboratory I built models for HIV rebound after treatment interruption, and mathematical models of immune escape to analyze data from a humanized mouse experiment. I used probabilistic modeling to derive a statistical model for when HIV remission fails, and used this model to explain data from a macaque SIV study. Such studies are used to test the impact of potentially curative treatment strategies, and modeling helps with the interpretation of the outcomes of these experiments.
 
+![Fits of a viral dynamic model for acute and rebound timeseries](/images/joint-fits-traj-subset-cyto.png)
+
 The time of rebound only gives limited information about the effect of a treatment. Therefore, I also developed dynamical models to explain viral load timeseries after remission failure, and used these model to quantify and qualify the effect of a number of different treatment combinations tested in a SHIV macaque study.
 The model for the humanized mouse data was fit to viral load, longitudinal T cell counts and genetic data. Importantly, the genetic data contained imprints of the immune response in the form of immune escape mutations. My work clearly showed the effect of such immune escape on the viral load dynamics, demonstrating that immune escape could be a major obstacle in future HIV immunotherapies.
+
 
 
 Resident memory T cell dynamics

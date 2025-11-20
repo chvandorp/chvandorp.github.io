@@ -13,6 +13,6 @@ I am currently working on a chapter for the upcoming
 &quot;CIME Lecture Notes <i>Mathematical modeling 
 for epidemiology: analysis, simulation and forecasting</i>&quot;
 
-The chapter will be based on our work on SARS-CoV-2 modeling with Dutch and Portugese 
+The chapter will be based on our work on SARS-CoV-2 modeling with Dutch and Portuguese 
 data. Topics will include age structured ODE models, Bayesian inference with Stan,
 forecasting and counterfactual analyses.
