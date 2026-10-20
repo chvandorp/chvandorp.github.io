@@ -25,9 +25,9 @@ author:
   avatar           : "profile3.jpg"
   name             : "Chris"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Research Scientist at Columbia University Irving Medical Center."
-  location         : "New York City, USA"
-  employer         : "Columbia University"
+  bio              : "Biostatistician at Radboud University Medical Center."
+  location         : "Nijmegen, Netherlands"
+  employer         : "Radboud UMC"
   uri              : # URL
   email            : # email address
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/christiaan-van-dorp-17a1a48"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
